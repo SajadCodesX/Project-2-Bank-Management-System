@@ -1,4 +1,4 @@
-# Bank Management System (C++)
+# Bank Management System (C++) - Course 7
 
 A console-based Bank Management System developed in C++ that provides complete client account management through a simple menu-driven interface. The application stores client information in text files and supports essential banking operations such as adding, updating, deleting, and searching for clients, as well as deposit, withdrawal, and total balance calculations.
 
